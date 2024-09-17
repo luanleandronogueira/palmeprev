@@ -1,0 +1,219 @@
+
+
+
+.no-underline {
+    text-decoration: none;
+    font-size: 12px;
+    color: azure;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.no-underline1 {
+    text-decoration: none;
+    font-size: 15px;
+    color: rgb(5, 5, 5);
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.no-underline2 {
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(5, 5, 5);
+    padding-right: 5px;
+    padding-left: 5px;
+    list-style-type: none;
+}
+
+.topo0 {
+
+    background-color: #fa6900;
+    padding: 5px;
+}
+
+.topoMobile {
+
+    background-color: #ffffff;
+}
+
+
+.topo1 {
+
+     background-color: #fa6900;
+     padding: 18px;
+     /* border-bottom: solid 2px #b8b6b7; */
+
+}
+
+.topo1Cor {
+
+    background-color: #ffffff;
+}
+
+.serDigitais {
+
+    background-color: #f5f5f5;
+    opacity: 0;
+    transition: opacity 0.6s ease-in;
+}
+
+.serDigitais.is-visible {
+    opacity: 1;
+  }
+
+.ulTexto {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.ulTexto li {
+    margin-bottom: 10px;
+}
+
+.hidden {
+    opacity: 0;
+}
+
+#logo_brasao, #logo_nome {
+    display: inline-block;
+    opacity: 1;
+}
+
+#logo_brasao.hidden, #logo_nome.hidden {
+    opacity: 0;
+}
+
+.cardServicos {
+
+   background-color: #01bafd;
+   text-decoration: #ffffff;
+   padding: 30px;
+   /* text-decoration: none; */
+   background-color: #0099ff;
+
+
+}
+
+.custom-btn {
+    width: 158px;
+    height: 120px;
+    color: #000;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+    text-decoration: none;
+    
+    
+    }
+    /* 14 */
+.btn-14 {
+
+    background: #fa6900;
+    border: none;
+    z-index: 1;
+}
+
+.btn-14:after {
+    
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 0;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    border-radius: 5px;
+    background-color: #fdbc8d;
+    background-image: linear-gradient(315deg, #fdbc8d 0%, #f17f2e 74%);
+    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5)
+        7px 7px 20px 0px rgba(0,0,0,.1),
+        4px 4px 5px 0px rgba(0,0,0,.1);
+    transition: all 0.3s ease;
+       
+}
+    
+.btn-14:hover {
+       
+    color: #000;
+}
+    
+.btn-14:hover:after {
+    
+    top: auto;
+    bottom: 0;
+    height: 100%;
+}
+    
+.btn-14:active {
+        
+    top: 2px;
+}
+
+@media (max-width: sm) {
+    .fl {
+      float: none; 
+      text-align: center; 
+    }
+  }
+
+  @media (max-width: 1200px) {
+    .borda0 {
+      border-left: none;
+    }
+  }
+
+  .degrade {
+
+    background: linear-gradient(to right, #f59c5c 0%, #ee751f 90%, #fa6900 100%);
+
+  }
+
+  .degrade1 {
+
+    background: linear-gradient(to right, #050a10 0%, #294c72 90%, #0f1c2d 100%);
+
+  }
+
+  .borda0 {
+    border-left: solid 30px #ffffff;
+
+  }
+
+  footer {
+
+    background: linear-gradient(to top, #fa6900 0%, #ffffff 100%);
+
+  }
+
+  .fixed-icons {
+    position: fixed;
+    top: 70%;
+    left: 0;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1000;
+}
+
+.fixed-icons .icon {
+    margin: 3px 0;
+}
+
+.fixed-icons img {
+    width: 40px; /* Ajuste o tamanho conforme necessário */
+    height: 40px; /* Ajuste o tamanho conforme necessário */
+}
+
+
