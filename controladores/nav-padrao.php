@@ -44,20 +44,19 @@
                 </a>
             </div>
             <div class="col-xl-2">
-                <strong>CADPREV</strong>
+                <strong>Portal do Servidor</strong>
                 <ul class="mt-3 ulTexto">
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/consultaAtosOficiais.aspx?ID=42&e=F"> - Comprovante de Repasse</a></li>
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/consultaAtosOficiais.aspx?ID=42&e=F"> - CRP</a></li>
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/consultaAtosOficiais.aspx?ID=42&e=F"> - DAIR</a></li>
+                    <li><a class="no-underline2" target="_blank" href="https://app.it-solucoes.inf.br/Portalservidor/?pid=6"> - Portal do Servidor</a></li>
+                    <li><a class="no-underline2" target="_blank" href="https://app.it-solucoes.inf.br/Portalservidor/?pid=6"> - Contra-cheque</a></li>
                 </ul>
             </div>
-            <div class="col-xl-2">
+            <!-- <div class="col-xl-2">
                 <ul class="mt-3 ulTexto">
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/consultaAtosOficiais.aspx?ID=42&e=F"> - DIPR</a></li>
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/consultaAtosOficiais.aspx?ID=42&e=F"> - DPIN</a></li>
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/consultaAtosOficiais.aspx?ID=42&e=F"> - DRAA</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/consultaAtosOficiais.aspx?id=50&e=F"> - DIPR</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/consultaAtosOficiais.aspx?id=50&e=F"> - DPIN</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/consultaAtosOficiais.aspx?id=50&e=F"> - DRAA</a></li>
                 </ul>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
@@ -72,10 +71,10 @@
                 </a>
             </div>
             <div class="col-xl-4">
-                <strong>COMPREV</strong>
+                <strong>Faça seu Recadastramento</strong>
                 <ul class="mt-3 ulTexto">
-                    <li><a class="no-underline2" target="_blank" href="https://brejao.pe.gov.br/fupreb/anexos/ACORDO_COOPERACAO_TECNICA20240819_13295915.pdf"> - Informações do COMPREV</a></li>
-                    <li><a class="no-underline2" target="_blank" href="https://brejao.pe.gov.br/fupreb/anexos/ACORDO_COOPERACAO_TECNICA20240819_13295915.pdf"> - Termo de Adesão do COMPREV</a></li>
+                    <li><a class="no-underline2" target="_blank" href="https://app.it-solucoes.inf.br/Portalservidor/?pid=6"> - Clique aqui e faça seu Recadastramento</a></li>
+                    <!-- <li><a class="no-underline2" target="_blank" href="https://brejao.pe.gov.br/fupreb/anexos/ACORDO_COOPERACAO_TECNICA20240819_13295915.pdf"> - Termo de Adesão do COMPREV</a></li> -->
                 </ul>
             </div>
             <!-- <div class="col-xl-4">
@@ -106,20 +105,19 @@
             <div class="col-xl-4">
                 <strong>Transparência</strong>
                 <ul class="mt-3 ulTexto">
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/frmAvisoLicitacao.aspx?id=42"> - Aviso de Licitação e Edital</a></li>
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/frmCartaServico.aspx?ID=42&e=F"> - Carta de Serviços</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/frmAvisoLicitacao.aspx?id=50"> - Aviso de Licitação e Edital</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/frmCartaServico.aspx?id=50&e=F"> - Carta de Serviços</a></li>
                     <li><a class="no-underline2" target="_blank" href="#"> - Resultado da Pesquisa de Satisfação</a></li>
                     <strong>Conselhos</strong>
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/retornaDadosVisualizacao.aspx?sessao=DECRETO&ID=42&e=F"> - Decretos</a></li>
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/retornaDadosVisualizacao.aspx?sessao=DECRETO&ID=42&e=F"> - Atas</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/retornaDadosVisualizacao.aspx?sessao=DECRETO&id=50&e=F"> - Decretos</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/retornaDadosVisualizacao.aspx?sessao=DECRETO&id=50&e=F"> - Atas</a></li>
                 </ul>
             </div>
             <div class="col-xl-4">
                 <ul class="mt-3 ulTexto">
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/carregaPortalFM.aspx?ID=42&e=F"> - Portal da Transparência</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/carregaPortalFM.aspx?id=50&e=F"> - Portal da Transparência</a></li>
                     <li><a class="no-underline2" target="_blank" href="http://radardatransparencia.atricon.org.br/radar-da-transparencia-publica.html"> - Radar de Transparência Pública (ATRICON)</a></li>
-                    <li><a class="no-underline2" target="_blank" href="https://www.it-solucoes.com/contrachequeweb/autenticaservidor.aspx?id=42"> - Contra Cheque Online</a></li>
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/retornaDadosVisualizacao.aspx?ID=42&sessao=lei&e=F"> - Leis Municipais</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/retornaDadosVisualizacao.aspx?id=50&sessao=lei&e=F"> - Leis Municipais</a></li>
                 </ul>
             </div>
         </div>
@@ -138,7 +136,7 @@
             <div class="col-xl-4">
                 <strong>Fale Conosco</strong>
                 <ul class="mt-3 ulTexto">
-                    <li><a class="no-underline2" target="_blank" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/solicitaInformacao.aspx?ID=42&e=F"> - Pedido de Informação (e-SIC)</a></li>
+                    <li><a class="no-underline2" target="_blank" href="http://it-solucoes.com/transparenciaMunicipal/solicitaInformacao.aspx?id=50&e=F"> - Pedido de Informação (e-SIC)</a></li>
                     <li><a class="no-underline2" target="_blank" href="https://falabr.cgu.gov.br/web/home"> - Ouvidoria</a></li>
 
                 </ul>

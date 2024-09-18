@@ -36,9 +36,9 @@
                     <strong>Atendimento ao Cidadão</strong>
                     <hr>
                     <ul class="ulTexto">
-                      <li><a class="no-underline1" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/solicitaInformacao.aspx?ID=42&e=F">e-SIC</a></li>
+                      <li><a class="no-underline1" href="http://it-solucoes.com/transparenciaMunicipal/solicitaInformacao.aspx?id=50&e=F">e-SIC</a></li>
                       <li><a class="no-underline1" href="glossario.php">Glossário</a></li>
-                      <li><a class="no-underline1" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/perguntasRespostas.aspx?ID=42&e=F">Perguntas Frequentes</a></li>
+                      <li><a class="no-underline1" href="http://it-solucoes.com/transparenciaMunicipal/perguntasRespostas.aspx?id=50&e=F">Perguntas Frequentes</a></li>
                       <li><a class="no-underline1" href="mapa-site.php">Mapa do Site</a></li>
                       <li><a class="no-underline1" href="https://falabr.cgu.gov.br/web/home">Ouvidoria</a></li>
                     </ul>
@@ -48,7 +48,7 @@
                   <strong>Transparência</strong>
                   <hr>
                   <ul class="ulTexto">
-                    <li><a class="no-underline1" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/carregaPortalFM.aspx?ID=42&e=F">Portal da Transparência</a></li>
+                    <li><a class="no-underline1" href="http://it-solucoes.com/transparenciaMunicipal/carregaPortalFM.aspx?id=50&e=F">Portal da Transparência</a></li>
                     <li><a class="no-underline1" href="">Emissão de Contra-Cheque</a></li>
                     <li><a class="no-underline1" href="http://radardatransparencia.atricon.org.br/radar-da-transparencia-publica.html">Radar de Transparência Pública (ATRICON)</a></li>
                   </ul>

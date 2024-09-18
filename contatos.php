@@ -10,7 +10,7 @@ include 'controladores/header.php'
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Telefone</h5>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">(87) 3789-1210</h6>
+                    <h6 class="card-subtitle mb-2 text-body-secondary">(87) 3781-1155</h6>
                     <p class="card-text">Entre em contato via telefone</p>
                 </div>
             </div>
@@ -19,7 +19,7 @@ include 'controladores/header.php'
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">E-mail</h5>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">previdencia@brejao.pe.gov.br          </h6>
+                    <h6 class="card-subtitle mb-2 text-body-secondary">previdencia@palmeirina.pe.gov.br    </h6>
                     <p class="card-text">Entre em contato via E-mail</p>
                 </div>
             </div>
@@ -28,7 +28,7 @@ include 'controladores/header.php'
             <div class="card">
                 <div class="card-body">
                     <h5 class="card-title">Endereço</h5>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">José Inácio dos Santos, 21, Brejão - PE</h6>
+                    <h6 class="card-subtitle mb-2 text-body-secondary">Av. Des. João Paes de Carvalho, 233 Palmeirina - PE</h6>
                     <p class="card-text">Venha e faça uma visita</p>
                 </div>
             </div>

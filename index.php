@@ -17,7 +17,7 @@ include 'controladores/header.php'
 
             <center>
 
-                <a class="custom-btn btn-14" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/solicitaInformacao.aspx?ID=42&e=F" target="_blank">
+                <a class="custom-btn btn-14" href="http://it-solucoes.com/transparenciaMunicipal/solicitaInformacao.aspx?id=50&e=F" target="_blank">
 
                     <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 0 24 24" width="48px" fill="#ffffff">
                         <path d="M0 0h24v24H0z" fill="none" />
@@ -29,7 +29,7 @@ include 'controladores/header.php'
 
                 </a>
 
-                <a class="custom-btn btn-14 mb-2" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/solicitaInformacao.aspx?ID=42&e=F" target="_blank">
+                <a class="custom-btn btn-14 mb-2" href="http://it-solucoes.com/transparenciaMunicipal/solicitaInformacao.aspx?id=50&e=F" target="_blank">
 
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 20 20" height="48px" viewBox="0 0 20 20" width="48px" fill="#ffffff">
                         <g>
@@ -73,7 +73,7 @@ include 'controladores/header.php'
 
                 </a>
 
-                <a class="custom-btn btn-14" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/frmCartaServico.aspx?ID=42&e=F" target="_blank">
+                <a class="custom-btn btn-14" href="http://it-solucoes.com/transparenciaMunicipal/frmCartaServico.aspx?id=50&e=F" target="_blank">
 
                     <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 0 24 24" width="48px" fill="#ffffff">
                         <path d="M0 0h24v24H0z" fill="none" />
@@ -97,7 +97,7 @@ include 'controladores/header.php'
 
                 </a>
 
-                <a class="custom-btn btn-14" href="http://app.brejao.pe.gov.br/transparenciaMunicipal/carregaPortalFM.aspx?ID=42&e=F" target="_blank">
+                <a class="custom-btn btn-14" href="http://it-solucoes.com/transparenciaMunicipal/carregaPortalFM.aspx?id=50&e=F" target="_blank">
 
                     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 20 20" height="48px" viewBox="0 0 20 20" width="48px" fill="#ffffff">
                         <rect fill="none" height="20" width="20" />
@@ -167,7 +167,7 @@ include 'controladores/header.php'
                 </h4>
             </div>
             <div class="col-12 col-lg-5 mt-2">
-                <iframe class="rounded w-100" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6228.669430840534!2d-36.566032!3d-9.029298!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x707064ccae01309%3A0xafa8c3cd00b7e46e!2sR.%20Jos%C3%A9%20In%C3%A1cio%20dos%20Santos%2C%2021%2C%20Brej%C3%A3o%20-%20PE%2C%2055325-000!5e1!3m2!1spt-BR!2sbr!4v1726244254427!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe class="rounded w-100" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1557.2762124054302!2d-36.325975!3d-9.004058!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x707171830574eeb%3A0x86071f4a2d0988ee!2sAv.%20Des.%20Joao%20Paes%20de%20Carvalho%2C%20233%20-%20Palmeirina%2C%20PE%2C%2055310-000!5e1!3m2!1spt-BR!2sbr!4v1726664244377!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>
